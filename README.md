@@ -27,12 +27,6 @@ Head over to the **[Releases](https://github.com/creeperxyz86/releases_o7prolte/
    * Flash the ROM ZIP package.
    * Flash GApps or additional patches if needed.
 6. **Reboot:** Wipe cache/dalvik one last time and reboot to your system.
-
----
-
-## 🛠️ Source Code & Development
-The source trees, device configurations, and kernel sources used to build these releases are maintained under open-source licenses within the broader **[Galaxy-MSM8916](https://github.com/Galaxy-MSM8916)** community architecture.
-
 ---
 
 ## 📄 License
